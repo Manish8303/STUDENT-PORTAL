@@ -136,23 +136,11 @@ http://localhost:8080/aip-webapp/
 
 ---
 
-## 📸 Screenshots
 
-```
-[screenshots/1.png]
-[screenshots/2.png]
-[screenshots/3.png]
-[screenshots/4.png]
-[screenshots/5.png]
-[screenshots/7.png]
-[screenshots/8.png]
-```
-
----
 
 ## 🙋‍♂️ Author
 
-**👨‍💻 Abhinash**  
-📧 `abhit7575@gmail.com`
+**👨‍💻 Manish Singh**  
+📧 `manishsingh8303@gmail.com`
 
 📘 *Submitted as part of the Advanced Internet Programming course.*
